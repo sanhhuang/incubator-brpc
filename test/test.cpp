@@ -7,5 +7,6 @@ using namespace std;
 	cout << str << endl;
 	str.clear();
 	cout << str << endl;
+	str.assign("123456");
 	return 0;
 }
